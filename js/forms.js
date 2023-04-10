@@ -20,7 +20,7 @@ botao.addEventListener('click',function(event){
     var erros = validaPaciente(paciente);
     
     
-    console.log(erros);
+    
     
     
     if(erros.length > 0){
